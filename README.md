@@ -1,1 +1,1 @@
-# SOD_using_image_preprocessing
+# The scripts and docs will be update soon!
